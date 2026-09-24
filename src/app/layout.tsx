@@ -16,7 +16,7 @@ const jetBrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3001"),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3003"),
   title: "AllConfig | Yeni Nesil Ağ Güvenlik Politikası Yönetimi (NSPM) & Dijital İkiz",
   description: "Cisco, Fortinet, Palo Alto ve Huawei altyapınızda çok satıcılı kural derleme, canlı bellek içi ağ ikizi (Network Twin), otomatik uyumluluk denetimi ve sıfır kesinti.",
   keywords: ["NSPM", "Network Twin", "ağ güvenliği", "çok satıcılı ağ", "firewall otomasyonu", "AllConfig"],

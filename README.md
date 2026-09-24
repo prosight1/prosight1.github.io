@@ -49,7 +49,7 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip 
    ```bash
    npm run dev
    ```
-   Tarayıcınızda [http://localhost:3001](http://localhost:3001) adresini açarak projeyi görüntüleyebilirsiniz.
+   Tarayıcınızda [http://localhost:3003](http://localhost:3003) adresini açarak projeyi görüntüleyebilirsiniz.
 
 ---
 
