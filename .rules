@@ -1,0 +1,5 @@
+# AllConfig Web Vitrini Geliştirme Kuralları
+1. Token Tasarrufu: Asla tüm projeyi tarama. Sadece üzerinde çalışılan bileşeni ve doğrudan bağımlılıklarını oku.
+2. Mock Veri İzolasyonu: Bileşen içine statik dizi/obje gömme. Veriyi src/constants/ altına al.
+3. Dev-Journal Disiplini: Her prompt bitiminde docs/dev-journal/YYYY-MM-DD.md dosyasını güncelle.
+4. Bitiş Kriteri: npm run build hatasız geçmeden ve dosya yolları doğrulanmadan görevi bitti sayma.
